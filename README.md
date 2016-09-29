@@ -2,6 +2,8 @@
 small projects for practice
 
 ## 500 Lines or Less 
+    * http://www.zhihu.com/question/29372574
+    * https://github.com/MachaelLee/500lines
 ### 1.Template Engine
         * http://aosabook.org/en/500L/a-template-engine.html
         * 通过把模板字符串转化为python代码的方式，最后通过执行代码生成最终的HTML.
